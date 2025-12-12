@@ -1,8 +1,8 @@
-# 🔐 **Pixel Encryptor** – Advanced AI-Powered Image Encryption Suite 🎨✨
+# 🔐 **CryptaPixelon** – Advanced AI-Powered Image Encryption Suite 🎨✨
 
 <div align="center">
 
-![Pixel Encryptor Banner](https://github.com/Pinank23/CODECRAFT_CS_02/raw/main/banner.png)
+![CryptaPixelon Banner](https://github.com/Pinank23/CODECRAFT_CS_02/raw/main/banner.png)
 
 **Secure Your Visual Secrets with AI-Optimized Pixel Manipulation**
 
@@ -35,7 +35,7 @@
 
 ## 🚀 **Project Description**
 
-**Pixel Encryptor** is a cutting-edge, **AI-powered image encryption tool** built for privacy-conscious developers and security enthusiasts. It combines elegant UI design with sophisticated encryption algorithms to deliver:
+**CryptaPixelon** is a cutting-edge, **AI-powered image encryption tool** built for privacy-conscious developers and security enthusiasts. It combines elegant UI design with sophisticated encryption algorithms to deliver:
 
 ✨ **Key Highlights:**
 - 🔐 **5+ Encryption Methods** (Swap, XOR, Shift, AES-inspired, Steganography)
@@ -92,10 +92,10 @@ pip install PyQt5 Pillow numpy opencv-python
 ### **Step 5️⃣ – Run the Application**
 
 ```bash
-python3 pixel_encryptor_ai.py
+python3 CryptaPixelon.py
 ```
 
-✅ **Done!** The Pixel Encryptor GUI will launch automatically.
+✅ **Done!** The CryptaPixelon GUI will launch automatically.
 
 ---
 
@@ -103,7 +103,7 @@ python3 pixel_encryptor_ai.py
 
 ### 🔐 **Multi-Method Encryption**
 
-Pixel Encryptor offers **5 powerful encryption techniques**, each optimized for different use cases:
+CryptaPixelon offers **5 powerful encryption techniques**, each optimized for different use cases:
 
 | Method | Speed | Security | Use Case |
 |--------|-------|----------|----------|
@@ -288,7 +288,7 @@ We ❤️ contributions! To contribute:
 
 ## 🔒 **Security Notice**
 
-⚠️ **Important:** Pixel Encryptor is designed for:
+⚠️ **Important:** CryptaPixelon is designed for:
 - General image obfuscation
 - Privacy-focused personal use
 - Educational cryptography exploration
@@ -330,7 +330,7 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 ## 🎯 **Final Note**
 
-Pixel Encryptor represents the **intersection of security and simplicity**. In an era of digital surveillance, protecting your visual data shouldn't require a computer science degree.
+CryptaPixelon represents the **intersection of security and simplicity**. In an era of digital surveillance, protecting your visual data shouldn't require a computer science degree.
 
 Whether you're:
 - 🔒 A privacy advocate
@@ -338,7 +338,7 @@ Whether you're:
 - 🖼️ Someone securing personal photos
 - 🔍 A researcher exploring image analysis
 
-...Pixel Encryptor empowers you to **take control of your visual privacy** 🎨🔐
+...CryptaPixelon empowers you to **take control of your visual privacy** 🎨🔐
 
 ---
 
