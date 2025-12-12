@@ -20,16 +20,16 @@
 ## 📸 **Screenshot Preview**
 
 ### Dark Mode Interface
-![Dark Mode - Main View](https://github.com/Pinank23/CODECRAFT_CS_02/raw/main/images/1.jpg)
+![Dark Mode - Main View](https://github.com/Pinank23/CODECRAFT_CS_02/raw/main/1.jpg)
 
 ### Encryption Settings
-![Encryption Methods](https://github.com/Pinank23/CODECRAFT_CS_02/raw/main/images/2.jpg)
+![Encryption Methods](https://github.com/Pinank23/CODECRAFT_CS_02/raw/main/2.jpg)
 
 ### Light Mode Interface  
-![Light Mode - Processing](https://github.com/Pinank23/CODECRAFT_CS_02/raw/main/images/light.jpg)
+![Light Mode - Processing](https://github.com/Pinank23/CODECRAFT_CS_02/raw/main/light.jpg)
 
 ### Batch Processing
-![Batch Operations](https://github.com/Pinank23/CODECRAFT_CS_02/raw/main/images/3.jpg)
+![Batch Operations](https://github.com/Pinank23/CODECRAFT_CS_02/raw/main/3.jpg)
 
 ---
 
